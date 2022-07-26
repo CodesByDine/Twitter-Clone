@@ -1,6 +1,6 @@
-# Next.js + Tailwind CSS Example
+# Twitter Clone
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+I have created a full stack clone of Twitter using React, Next.js, Sanity CMS, Typescript, SSR, Tailwind & NextAuth.
 
 ## Deploy your own
 
