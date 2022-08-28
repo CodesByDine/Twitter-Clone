@@ -1,6 +1,6 @@
 # Twitter Clone
 
-I have created a full stack clone of Twitter using React, Next.js, Sanity CMS, Typescript, SSR, Tailwind & NextAuth.
+I have created a full stack clone of Twitter using React, Next.js, Sanity CMS, Typescript, SSR, Tailwind & NextAuth. I will be hosting my react app soon.
 
 ## Install Project
 
